@@ -1,0 +1,111 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Shafiq SanChy &mdash; Web Designer &amp; Developer</title>
+
+<meta name="description" content="Early-stage prototypes for the new PepsiCo mobile site">
+
+<!-- <link href="/_themes/hawthorne/css/hawthorne_t1_c1.css" rel="stylesheet" > -->
+
+<link href="css/hawthorne.css" rel="stylesheet">
+<!-- <link href="/_themes/hawthorne/css/hawthorne_type1_color1.css" id="theme" rel="stylesheet"> -->
+<link href="css/font-awesome.css" rel="stylesheet">
+
+<script src="modernizr/modernizr.js"></script>
+
+</head>
+<body>
+
+<div class="top-border"></div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 small-centered columns">
+		<header>		
+			<h1><a href="index.html">SHAFIQ SANCHY</a></h1>
+			<h2><a href="index.html">Web Designer &amp; Developer</a></h2>
+			<!--
+			<div class="logo">
+				<a href="/"><img src="/assets/img/logo.png" alt="Logo" /></a>
+			</div>
+			-->
+		</header>
+	</div>
+	<div class="small-12 medium-12 large-12 small-centered columns">
+		<nav>
+	<ul class="inline-list-custom">
+		<li><a href="index.html" >Selected Work</a></li>
+				<li><a href="about.html" >About</a></li>
+				
+				
+		
+	</ul>
+</nav>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-7 large-7 columns ">
+		<h2 >FalconsEdge, Inc. </h2>
+			</div>
+		<div class="small-12 medium-5 large-5 columns">
+		<div class="lined-list">
+			<ul>
+				<li><strong>Role:</strong> PSD Template Design / PSD to HTML</li>
+				<li><strong>URL:</strong> On Request</li>
+				<li><strong>Client:</strong> USA</li>
+			</ul>
+		</div>
+	</div>
+	</div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+				<hr class="project-detail-hr" />				<div class="project-img">
+			<img src="../assets/img/projects/pepsico-mobile-01.jpg" alt="PepsiCo Mobile 1" />
+					</div>
+		
+				
+			</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+		<p class="back-to-top-holder"><a class="back-to-top"><i class="fa fa-chevron-circle-up fa-3x"></i></a></p>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+		<footer>
+</footer>
+	</div>
+</div>
+
+<!--
+<a href="http://www.typewolf.com/site-of-the-day/jeremiah-shoaf2" title="Typewolf Site of the Day" target="_blank"><img src="http://www.typewolf.com/assets/img/badges/typewolf@2x.png" alt="Typewolf Site of the Day" width="127" height="62"  style="position: fixed; z-index: 99999; right: -1px; bottom: -1px; cursor: pointer; border: 0px; content: none; display: inline; float: none; height: 62px; left: auto; margin: 0px; max-height: 62px; max-width: 127px; min-height: 62px; min-width: 127px; orphans: 2; outline: none; overflow: visible; padding: 0px; page-break-after: auto; page-break-before: auto; page-break-inside: auto; table-layout: auto; text-indent: 0px; top: auto; unicode-bidi: normal; vertical-align: baseline; visibility: visible; widows: 2; width: 127px;" /></a>
+-->
+
+<script src="../_themes/hawthorne/bower_components/jquery/jquery.min.js"></script>
+<script src="../_themes/hawthorne/bower_components/foundation/js/foundation.min.js"></script>
+<script src="../_themes/hawthorne/js/hawthorne.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4972759-1', 'jeremiahshoaf.com');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+
+<!-- Mirrored from www.jeremiahshoaf.com/selected-work/pepsico-mobile by HTTrack Website Copier/3.x [XR&CO'2013], Thu, 09 Jan 2014 01:19:58 GMT -->
+</html>
